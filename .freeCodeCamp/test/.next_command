@@ -129,3 +129,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./student_info.sh
 clear
 ./student_info.sh
+__vsc_prompt_cmd_original
